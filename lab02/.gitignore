@@ -1,0 +1,7 @@
+# word and pdf
+*.doc
+*.docx
+*.pdf
+
+# dir
+buid/
