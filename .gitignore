@@ -1,7 +1,8 @@
-# word and pdf
+# word and pdf and zip
 *.doc
 *.docx
 *.pdf
+*.zip
 build/
 
 # the following is not about this course
