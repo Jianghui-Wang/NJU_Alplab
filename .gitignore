@@ -4,7 +4,7 @@
 *.pdf
 *.zip
 build/
-!lab01_manual.pdf
+!lab0?_manual.pdf
 
 # the following is not about this course
 # from gitignore/C.ignore
