@@ -11,3 +11,7 @@
 ## lab05 Memory allocation and buffer overflow lab
 
 ## final lab: The BOOOOOOOMB!
+
+All the manual books can according to dir "manual".
+
+All the reports for lab can find in the lab dir.
